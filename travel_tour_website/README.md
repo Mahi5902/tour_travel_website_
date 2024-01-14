@@ -37,7 +37,7 @@ What I learn:
 
 <img width="259" alt="Screenshot 2024-01-14 171131" src="https://github.com/Mahi5902/tour_travel_website_/assets/95998757/438005ac-fe1f-47b7-81d4-824855e9e709">
 
-![Uploading Screenshot 2024-01-14 171206.png…]()
+
 
 
 <img width="249" alt="Screenshot 2024-01-14 171224" src="https://github.com/Mahi5902/tour_travel_website_/assets/95998757/18348663-a8e3-477f-952e-5fe554e985af">
