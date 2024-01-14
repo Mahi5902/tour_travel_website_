@@ -35,9 +35,10 @@ What I learn:
 
 ![Screenshot (293)](https://github.com/Mahi5902/tour_travel_website_/assets/95998757/4a6449f8-9b12-460f-bb06-babba5dccb2b)
 
-<img width="259" alt="Screenshot 2024-01-14 171131" src="https://github.com/Mahi5902/tour_travel_website_/assets/95998757/438005ac-fe1f-47b7-81d4-824855e9e709">
 
-
-
-
-<img width="249" alt="Screenshot 2024-01-14 171224" src="https://github.com/Mahi5902/tour_travel_website_/assets/95998757/18348663-a8e3-477f-952e-5fe554e985af">
+<img width="259" alt="Screenshot 2024-01-14 171131" src="https://github.com/Mahi5902/tour_travel_website_/assets/95998757/0a9b7cfd-3b31-424d-9bba-071802073d87">
+<img width="241" alt="Screenshot 2024-01-14 171206" src="https://github.com/Mahi5902/tour_travel_website_/assets/95998757/e94d7503-5483-4113-9482-d3e9100cc476">
+<img width="249" alt="Screenshot 2024-01-14 171224" src="https://github.com/Mahi5902/tour_travel_website_/assets/95998757/c406b3a8-76db-48ee-a311-c058daa0fec7">
+<img width="248" alt="Screenshot 2024-01-14 171633" src="https://github.com/Mahi5902/tour_travel_website_/assets/95998757/842f7856-ac4d-42e1-991a-cffd6443acfd">
+<img width="257" alt="Screenshot 2024-01-14 171646" src="https://github.com/Mahi5902/tour_travel_website_/assets/95998757/3991d51b-62fc-4d40-ac52-eabca70c5167">
+<img width="254" alt="Screenshot 2024-01-14 171706" src="https://github.com/Mahi5902/tour_travel_website_/assets/95998757/aac9f616-05c9-43b7-ba38-da066ba1c22f">
