@@ -1,5 +1,18 @@
+for running this website :run dev
 
-Currently, two official plugins are available:
+learning:
+What I learn:
+ => build Responsive Navbar using ReactJS.
+ => learn react-router-dom with creating multi route application.
+ => How to build Modern Responsive Hero page using ReactJS and Tailwind CSS.
+ =>build custom Popup modal.
+ =>learn to animation on websites.
+ =>You'll build fully responsive website in reactJS using Tailwind CSS
+ => Best practices and debugging skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+ Features:
+ =>Responsive Complete Landing page with popup modal.
+ => Responsive Navbar with dropdown menu.
+ => Animation on scroll.
+ => Fully responsive Hero page( All device supported )
